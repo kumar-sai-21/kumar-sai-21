@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently studying in Silicon Institute of Technology
 <!--
 **kumar-sai-21/kumar-sai-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
