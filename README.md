@@ -1,7 +1,10 @@
 ### Hi there 👋
-🔭 I’m currently studying in [Silicon Institute of Technology](https://www.silicon.ac.in/)
+🔭 I’m a CS Undergrad currently studying in [Silicon Institute of Technology](https://www.silicon.ac.in/)
 
 🌱 Java  ||  Python  ||  Machine Learning  ||  Data Science Enthusiastic ||  Love to Learn New Technology  
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumar-sai-21&show_icons=true&theme=gotham" />
+
 <!--
 **kumar-sai-21/kumar-sai-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
