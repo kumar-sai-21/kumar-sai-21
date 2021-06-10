@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Sai Kumar Satapathy.
 🔭 I’m a CS Undergrad currently studying in [Silicon Institute of Technology](https://www.silicon.ac.in/)
 
 🌱 Java  ||  Python  ||  Machine Learning  ||  Data Science Enthusiastic ||  Love to Learn New Technology  
