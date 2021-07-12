@@ -1,6 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kumar-sai-21.kumar-sai-21)
+  - Thank You for taking the time to view my GitHub Profile :smile: 
 ### Hi there 👋 I am Sai Kumar Satapathy a noob coder.
-## Learning to be coding expertise
+Learning to be coding expertise
 
 🔭 I’m a CS Undergrad currently studying in [Silicon Institute of Technology](https://www.silicon.ac.in/)
 
