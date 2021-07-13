@@ -38,10 +38,10 @@ Learning to be coding expertise
               
               
               
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumar-sai-21&show_icons=true&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api?username=kumar-sai-21&show_icons=true&theme=gotham" />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-sai-21&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-sai-21&theme=default"/>
 
 <!--
 **kumar-sai-21/kumar-sai-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
