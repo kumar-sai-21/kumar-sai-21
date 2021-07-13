@@ -12,16 +12,10 @@ Learning to be coding expertise
 <h2> Connect with me <img src='Assert/handshake.gif' width="100px"> </h2>
 
 <a href = 'https://www.linkedin.com/in/sai-kumar-satapathy-212544173/'><img width =50px align = 'center' src="Assert/linkedin.gif">
-</a>
-
-<a href = 'https://github.com/kumar-sai-21'><img width =50px align = 'center' src="Assert/github.webp"></a>
-
+</a>     <a href = 'https://github.com/kumar-sai-21'><img width =50px align = 'center' src="Assert/github.webp"></a>
 <a href = 'https://www.facebook.com/profile.php?id=100005693494778'><img width =50px align = 'center' src="Assert/fb.webp"></a>
-
 <a href = 'https://www.twitter.com/itz_SaiKumar'><img width =50px align = 'center' src="Assert/twitter.webp"></a>
-
 <a href = 'https://www.youtube.com/channel/UCW7Za-LRrUqWgroZR-T5WWg'><img width =50px align = 'center' src="Assert/yt.webp"></a>
-
 <a href = 'https://saikumarsatapathy4.wixsite.com/saikumar'><img width =50px align = 'center' src="Assert/portfolio.png"></a>
               
               
