@@ -25,15 +25,7 @@
 <a href=https://github.com/kumar-sai-21?tab=repositories&q=&type=&html&sort=><img src='Assert/css.gif' width=45 align= center> </a>
 
 <h2> Tools</h2>
-<img src= "Assert/vscode.webp" width='40' align='center'>
-<img src= "Assert/git.gif" width='90' align='center'>
-<img src= "Assert/Eclipse.svg" width='90' align='center'>
-<img src= "Assert/Intellij.svg" width='40' align='center'>
-<img src= "Assert/pycharm.svg" width='40' align='center'>
-<img src= "Assert/jupyter.png" width='40' align='center'>
-<img src= "Assert/npm.svg" width='40' align='center'>
-<img src= "Assert/wix.png" width='40' align='center'>
-<img src= "Assert/jupyter.png" width='40' align='center'>
+<img src= "Assert/vscode.webp" width='40' align='center'><img src= "Assert/git.gif" width='90' align='center'><img src= "Assert/Eclipse.svg" width='90' align='center'><img src= "Assert/Intellij.svg" width='40' align='center'><img src= "Assert/pycharm.svg" width='40' align='center'><img src= "Assert/jupyter.png" width='40' align='center'><img src= "Assert/npm.svg" width='40' align='center'><img src= "Assert/wix.png" width='40' align='center'><img src= "Assert/jupyter.png" width='40' align='center'>
 
 <h1> Connect With Me <img src='Assert/handshake.gif' width="100px" align = center> </h1>
 
