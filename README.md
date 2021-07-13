@@ -33,7 +33,7 @@
 <img src= "Assert/jupyter.png" width='40' align='center'>
 <img src= "Assert/npm.svg" width='40' align='center'> 
 <img src= "Assert/wix.png" width='40' align='center'> 
-<img src= "Assert/jupyter.png" width='40' align='center'>
+<img src= "Assert/jupyter.png" width='40' align='center'></a>
 
 <h1> Connect With Me <img src='Assert/handshake.gif' width="100px" align = center> </h1>
 
