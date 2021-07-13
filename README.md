@@ -4,7 +4,7 @@
 <h2>I am Sai Kumar Satapathy a Noob Coder.</h2>
 <b>Learning to be Coding Expertise</b>
 <br> 
-<>
+<a>
 <img width="55%" align="right" alt="Github" src= 'Assert/git-header.svg' />
 
 
@@ -33,8 +33,8 @@
 <img src= "Assert/jupyter.png" width='40' align='center'>
 <img src= "Assert/npm.svg" width='40' align='center'> 
 <img src= "Assert/wix.png" width='40' align='center'> 
-<img src= "Assert/jupyter.png" width='40' align='center'></a>
-
+<img src= "Assert/jupyter.png" width='40' align='center'>
+</a>
 <h1> Connect With Me <img src='Assert/handshake.gif' width="100px" align = center> </h1>
 
 <a href = 'https://www.linkedin.com/in/sai-kumar-satapathy-212544173/'><img width =45px align = 'center' src="Assert/linkedin.gif">
