@@ -23,9 +23,7 @@ Learning to be coding expertise
 <a href= https://github.com/kumar-sai-21?tab=repositories&q=&type=&language=java&sort=><img src='Assert/java.svg' width=40 align= center>
 </a>
 <a href=https://github.com/kumar-sai-21?tab=repositories&q=&type=&language=javascript&sort=><img src='Assert/js.webp' width=40 align= center>
-</a>
-<img src='Assert/html.gif' width=45 align= center>
-<img src='Assert/css.gif' width=45 align= center>
+</a> <img src='Assert/html.gif' width=45 align= center> <img src='Assert/css.gif' width=45 align= center>
 
 <h2> Tools</h2>
 
