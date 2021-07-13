@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kumar-sai-21.kumar-sai-21)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=saikumars)
   - Thank You for taking the time to view my GitHub Profile :smile: 
 ### Hi there 👋 I am Sai Kumar Satapathy a noob coder.
 Learning to be coding expertise
@@ -9,11 +9,19 @@ Learning to be coding expertise
 
 🤔 I’m looking for help with  Competitive Programming,  New technology  to learn Machine Learning
 
+<h2> Connect with me <img src='Assert/handshake.gif' width="100px"> </h2>
 
+<a href = 'https://www.linkedin.com/in/sai-kumar-satapathy-212544173/'><img width =50px align = center src="Assert/linkedin.gif"></a>
 
+<a href = 'https://github.com/kumar-sai-21'><img width =50px align = center src="Assert/github.webp"></a>
 
-              
-              
+<a href = 'https://www.facebook.com/profile.php?id=100005693494778'><img width =50px align = center src="Assert/fb.webp"></a>
+
+<a href = 'https://www.twitter.com/itz_SaiKumar'><img width =50px align = center src="Assert/twitter.webp"></a>
+
+<a href = 'https://www.youtube.com/channel/UCW7Za-LRrUqWgroZR-T5WWg'><img width =50px align = center src="Assert/yt.webp"></a>
+
+<a href = 'https://saikumarsatapathy4.wixsite.com/saikumar'><img width =50px align = center src="Assert/portfolio.png"></a>
               
               
               
@@ -22,25 +30,3 @@ Learning to be coding expertise
 
 <!--
 **kumar-sai-21/kumar-sai-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying in Silicon Institute of Technology
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
