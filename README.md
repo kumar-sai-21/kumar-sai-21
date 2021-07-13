@@ -23,7 +23,10 @@ Learning to be coding expertise
 <a href= https://github.com/kumar-sai-21?tab=repositories&q=&type=&language=java&sort=><img src='Assert/java.svg' width=40 align= center>
 </a>
 <a href=https://github.com/kumar-sai-21?tab=repositories&q=&type=&language=javascript&sort=><img src='Assert/js.webp' width=40 align= center>
-</a> <img src='Assert/html.gif' width=45 align= center> <img src='Assert/css.gif' width=45 align= center>
+</a> 
+<a href=https://github.com/kumar-sai-21?tab=repositories&q=&type=&html&sort=><img src='Assert/html.gif' width=45 align= center>
+</a> 
+<img src='Assert/css.gif' width=45 align= center>
 
 <h2> Tools</h2>
 
@@ -41,6 +44,9 @@ Learning to be coding expertise
               
               
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumar-sai-21&show_icons=true&theme=gotham" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-sai-21&theme=default"/>
 
 <!--
 **kumar-sai-21/kumar-sai-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
