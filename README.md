@@ -38,8 +38,8 @@
 </a>
 <h1> Connect With Me <img src='Assert/handshake.gif' width="100px" align = center> </h1>
 
-<a href = 'https://www.linkedin.com/in/sai-kumar-satapathy-212544173/'><img width =45px align = 'center' src="Assert/linkedin.gif">
-</a> <a href = 'https://github.com/kumar-sai-21'><img width =35px align = 'center' src="Assert/github.svg"></a>
+<a href = 'https://www.linkedin.com/in/sai-kumar-satapathy-212544173/'><img width =45px align = 'center' src="Assert/linkedin.gif"></a> 
+<a href = 'https://github.com/kumar-sai-21'><img width =35px align = 'center' src="Assert/github.svg"></a>
 <a href = 'https://www.facebook.com/profile.php?id=100005693494778'><img width =40px align = 'center' src="Assert/fb.webp"></a>
 <a href = 'https://www.twitter.com/itz_SaiKumar'><img width =40px align = 'center' src="Assert/twitter.webp"></a>
 <a href = 'https://www.youtube.com/channel/UCW7Za-LRrUqWgroZR-T5WWg'><img width =40px align = 'center' src="Assert/yt.webp"></a>
