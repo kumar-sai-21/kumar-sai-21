@@ -1,8 +1,9 @@
 ### Thank You for taking the time to view my GitHub Profile :smile: 
 <h1> Hi there <img src="Assert/hi.gif" width="50px" align = 'cente' > 
 </h1>
-<h2>I am Sai Kumar Satapathy a Noob Coder.</h2>
-<b>Learning to be Coding Expertise</b>
+<h2>I am Sai Kumar Satapathy .</h2>
+<b>Associate Software Engineer at Accenture</b>
+<b>SAP BW consultant</b>
 <br> 
 <a>
 <img width="55%" align="right" alt="Github" src= 'Assert/git-header.svg' />
